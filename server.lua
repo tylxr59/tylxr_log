@@ -81,7 +81,7 @@ function lib.logger(source, event, message, severity, ...)
     -- initialise stream payload
     local payload = {
         stream = {
-            server = "SummitRP",
+            server = "FiveM", --Change to your server here
             resource = cache.resource,
             event = event,
             SeverityLevel = logSeverityLevel,
