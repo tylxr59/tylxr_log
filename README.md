@@ -1,7 +1,7 @@
 # tylxr_log
 
 ## Introduction
-tylxr_log is a mod for ox_lib designed for FiveM servers that want to utilize Grafana and Loki for logging. This mod helps in efficiently managing and visualizing server logs.
+tylxr_log is a mod for ox_lib designed for FiveM servers that want to utilize Grafana and Loki for logging. This mod helps in efficiently logging, managing, and visualizing player actions.
 
 ## Features
 - Seamless integration with Grafana and Loki
